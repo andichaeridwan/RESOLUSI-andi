@@ -5,3 +5,4 @@ RENCANA KONTEN ANDI
   * big data
 - ANALYS DATA
 - VLOG
+- Fundamental Matematika
