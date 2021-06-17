@@ -3,6 +3,8 @@ RENCANA KONTEN ANDI
 - DATA SCIENCE
   * visualisasi data
   * big data
-- ANALYS DATA
+   ^ Modus
+   ^ Himpunan
 - VLOG
+ * Videografi
 - Fundamental Matematika
