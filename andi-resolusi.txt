@@ -1,0 +1,7 @@
+Resolusi Andi di Tahun 2021
+- Memahami Data Science
+- Memahami Data Analys
+- Memahami Mechine Learning
+- Memahami Fullstack Web Development
+- Memahami IOs Development
+- Memahami Android Development
